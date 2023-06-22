@@ -1,1 +1,1 @@
-# Major-Project
+# Automatic Reader Based on Raspberry Pi
